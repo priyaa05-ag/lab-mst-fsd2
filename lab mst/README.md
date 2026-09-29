@@ -1,4 +1,4 @@
-# Experiment 3 - RBAC End-to-End
+# RBAC End-to-End
 
 ## Run in VS Code
 
